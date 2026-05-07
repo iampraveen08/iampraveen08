@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
-<h3 align="center">A passionate Full-Stack Developer from Lucknow, India</h3>
+<h3 align="center">A Full-Stack Developer from Lucknow, India</h3>
 
 <p align="center">
-  🔭 Currently building: <a href="https://job-site-amber.vercel.app/" target="_blank">JobSite</a><br/>
-  🌱 Learning: <b>DSA</b> and <b>Next.js</b><br/>
+  🌱 Learning: <b>DSA</b>
   💬 Ask me about: <b>MERN Stack, REST APIs, DevOps</b><br/>
   📫 Reach me at: <b>8127praveen@gmail.com</b>
 </p>
